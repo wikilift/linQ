@@ -27,19 +27,19 @@ git clone https://github.com/yourusername/linq-notes.git
 cd linq-notes
 ```
 ## Usage / Uso
-```
- Open the project in your preferred C# editor and run the examples
-```
+
+- Open the project in your preferred C# editor and run the examples
+
 ## Examples / Ejemplos
 
-```
-The repository includes various LINQ examples categorized by their use-cases like filtering, sorting, aggregating, etc.
 
-El repositorio incluye varios ejemplos de LINQ categorizados por sus casos de uso, como filtrado, ordenación, agregación, etc.
-```
+-The repository includes various LINQ examples categorized by their use-cases like filtering, sorting, aggregating, etc.
+
+-El repositorio incluye varios ejemplos de LINQ categorizados por sus casos de uso, como filtrado, ordenación, agregación, etc.
+
 ## Contributing / Contribuir
-```
-Feel free to fork the repository, star it, and open pull requests or issues for any improvements or fixes you'd like to contribute.
 
-Siéntete libre de hacer un fork al repositorio, darle estrellas y abrir pull requests o issues para cualquier mejora o corrección que te gustaría contribuir.
-```
+-Feel free to fork the repository, star it, and open pull requests or issues for any improvements or fixes you'd like to contribute.
+
+-Siéntete libre de hacer un fork al repositorio, darle estrellas y abrir pull requests o issues para cualquier mejora o corrección que te gustaría contribuir.
+
