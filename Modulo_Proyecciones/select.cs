@@ -33,7 +33,7 @@ new Persona { Name = "Valentina" }
             var queryNames = (from name in firstOrDefault.perss
                               select name.Name);
             var queryNamesAndAge = from p in firstOrDefault.perss
-                                   select new { Putilla = p.Name, Penecillo = p.Age };
+                                   select new { Persona = p.Name, Personita = p.Age };
             var numbersX2Query = from n in numbers
                                  select n * 2;
             //var personasConIndiceX2   no se puede hacer con query.
